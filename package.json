@@ -5,5 +5,23 @@
   },
   "devDependencies": {
     "vuepress": "^1.2.0"
-  }
+  },
+  "name": "contamg",
+  "description": "This is a project about a ERP with the following modules:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contamg/contamg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contamg/contamg/issues"
+  },
+  "homepage": "https://github.com/contamg/contamg#readme"
 }
