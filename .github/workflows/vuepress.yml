@@ -18,4 +18,4 @@ jobs:
           BRANCH: master # The branch the action should deploy to.
           GITHUB_REPOSITORY: contamg/contamg.github.io
           FOLDER: docs/.vuepress/dist # The folder the action should deploy.
-          BUILD_SCRIPT: yarn install && a yarn docs:build # The build script the action should run prior to deploying.
+          BUILD_SCRIPT: yarn install && yarn docs:build # The build script the action should run prior to deploying.
