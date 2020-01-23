@@ -147,10 +147,12 @@ export default class HelloWorld extends Vue {
 <style scoped lang="stylus">
 h3
   margin 40px 0 0
+  color green-color
 
 ul
   list-style-type none
   padding 0
+  border-radius 5px
 
 li
   display inline-block
