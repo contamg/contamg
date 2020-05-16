@@ -21,7 +21,10 @@ module.exports = {
     ['meta', {name:"theme-color", content:"#ffffff"}],
   ],
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    extendMarkdown: md => {
+      md.use(require('@quartzy/markdown-it-mentions')) 
+    },
   },
   plugins: [
     '@vuepress/active-header-links',

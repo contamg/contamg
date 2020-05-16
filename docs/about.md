@@ -4,5 +4,5 @@ This is about this project
 
 ## Authors:
 
-* Marco Gordillo @marcopgordillo
+* [@marcopgordillo](https://github.com/marcopgordillo)
 

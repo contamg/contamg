@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/contamg/contamg/issues"
   },
-  "homepage": "https://github.com/contamg/contamg#readme"
+  "homepage": "https://github.com/contamg/contamg#readme",
+  "dependencies": {
+    "@quartzy/markdown-it-mentions": "^0.2.0"
+  }
 }
