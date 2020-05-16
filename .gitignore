@@ -93,3 +93,5 @@ typings/
 .idea/
 
 /docs/.vuepress/dist/
+dist
+
